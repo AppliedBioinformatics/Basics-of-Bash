@@ -8,13 +8,14 @@ To download the files, you can either use
 
 **git** 
 
-Eg. git clone (link)
+`< git clone (link)>`
 
 **wget**
 
-'`<wget "link" >`
+`<wget "link" >`
 
 ## Unzip folder
 
 Once the zip file has been downloaded, the folder can be unzipped as below: 
 
+`<unzip Basics_of_Bash.zip >
